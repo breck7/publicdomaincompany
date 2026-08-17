@@ -3,47 +3,47 @@ The Public Domain Publishing Inc. Blog
 
 Public Domain Publishing Inc. Readme
 ====================================
-10/17/2024
-https://publicdomaincompany.com/readme.html
+08/17/2026
+https://pub.breck.lol/readme.html
 
 Start a newspaper francise
 ==========================
 01/18/2023
-https://publicdomaincompany.com/start-a-newspaper-business.html
-
-Our Mission
-===========
-12/18/2022
-https://publicdomaincompany.com/ourMission.html
+https://pub.breck.lol/start-a-newspaper-business.html
 
 Pub Training Manual
 ===================
 12/18/2022
-https://publicdomaincompany.com/trainingManual.html
+https://pub.breck.lol/trainingManual.html
+
+Our Mission
+===========
+12/18/2022
+https://pub.breck.lol/ourMission.html
 
 Public Domain Publishing Inc. suffers complete code and data breach
 ===================================================================
 11/11/2022
-https://publicdomaincompany.com/code-download.html
+https://pub.breck.lol/code-download.html
 
 #Rejected
 =========
 09/11/2022
-https://publicdomaincompany.com/wefunder.html
+https://pub.breck.lol/wefunder.html
 
 Real Time Research
 ==================
 09/08/2022
-https://publicdomaincompany.com/real-time-research.html
+https://pub.breck.lol/real-time-research.html
 
 #BuildPublicDomain
 ==================
 09/04/2022
-https://publicdomaincompany.com/buildPublicDomain.html
+https://pub.breck.lol/buildPublicDomain.html
 
 Motivational posters
 ====================
 03/06/2021
-https://publicdomaincompany.com/motivationalPosters.html
+https://pub.breck.lol/motivationalPosters.html
 
-Built with Scroll v142.0.2
+Built with Scroll v178.2.3

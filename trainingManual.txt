@@ -4,7 +4,7 @@ Pub Training Manual
 December 18, 2022
 
 Aloha! Welcome to the team! We don't have titles here. We have a mission, customers, and jobs to be done.
- https://publicdomaincompany.com/ourMission.html mission
+ https://pub.breck.lol/ourMission.html mission
 
 *
 
@@ -37,4 +37,4 @@ Marketing team
 - Promoting our work to existing media outlets
 - Fighting censorship in all its locations and forms
 
-Built with Scroll v142.0.2
+Built with Scroll v178.2.3

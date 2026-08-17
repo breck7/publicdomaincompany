@@ -4,7 +4,7 @@
   "description": "Our corporate homepage, blog, and legal department's hard drive.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/breck7/publicdomaincompany.com.git"
+    "url": "git+https://github.com/breck7/publicdomaincompany.git"
   },
   "scripts": {
     "build": "scroll build",
@@ -12,7 +12,7 @@
     "up": "npm install scroll-cli@latest"
   },
   "author": "Public Domain Publishing Inc.",
-  "homepage": "https://publicdomaincompany.com/",
+  "homepage": "https://pub.breck.lol/",
   "dependencies": {
     "scroll-cli": "^136.0.0"
   }

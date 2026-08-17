@@ -1,4 +1,4 @@
 importOnly
-baseUrl https://publicdomaincompany.com/
+baseUrl https://pub.breck.lol/
 rssFeedUrl feed.xml
-viewSourceBaseUrl https://github.com/breck7/publicdomaincompany.com/blob/main
+editBaseUrl https://github.com/breck7/publicdomaincompany/blob/main

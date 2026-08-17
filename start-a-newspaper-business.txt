@@ -11,10 +11,10 @@ January 18, 2023
 
 Earlier this month Public Domain Publishing launched two new local newspapers: The Long Beach Pub and The Hawai'i Pub.  The papers use a breakthrough technology stack unlike any the world has seen before. Even in their early iterations, the response to the papers has been overwhelming. Already people are launching newspapers using the same software across the world.
  https://longbeach.pub/ The Long Beach Pub
- http://hawaii.publicdomaincompany.com/ The Hawai'i Pub
- https://publicdomaincompany.com/ Public Domain Publishing
+ http://hawaii.breck.lol/ The Hawai'i Pub
+ https://pub.breck.lol/ Public Domain Publishing
 
-In an effort to more effectively bring this breakthrough technology and business model to communities around the world, Public Domain Publishing Inc. is launching a new newspaper franchise program. Entrepreneurs interested in starting their own newspaper business can email franchise@publicdomaincompany.com for a price sheet.
+In an effort to more effectively bring this breakthrough technology and business model to communities around the world, Public Domain Publishing Inc. is launching a new newspaper franchise program. Entrepreneurs interested in starting their own newspaper business can email breck7@gmail.com for a price sheet.
 
 *
 
@@ -31,7 +31,7 @@ Breakthrough technology will revolutionize the 500 year old newspaper industry
 While some thought the 500 year old newspaper industry was on its last legs, the revolutionary software from Public Domain Publishing will ensure it has at least another 500 years ahead of it. Public Domain Publishing invented the most important fundamental technology in decades, which is already revolutionizing the fields of computer science and cancer research. Building on that technology, the company developed Scroll, a breakthrough new language that leaves all previous technologies used by newspapers in the dust.
  https://en.wikipedia.org/wiki/List_of_the_oldest_newspapers 500 year old newspaper industry
  https://arxiv.org/abs/1703.01192 the most important fundamental technology
- https://scroll.pub/ Scroll
+ https://scroll.surf/ Scroll
 
 Raising the bar
 ===============
@@ -39,6 +39,6 @@ These partnerships will raise the bar across the newspaper industry and deliver 
 
 Pricing
 =======
-Pricing is based on a simple model using the population and per capita data on the region of interest. Minimum commitment is 1 year. For a price quote, email franchise@publicdomaincompany.com.
+Pricing is based on a simple model using the population and per capita data on the region of interest. Minimum commitment is 1 year. For a price quote, email breck7@gmail.com.
 
-Built with Scroll v142.0.2
+Built with Scroll v178.2.3

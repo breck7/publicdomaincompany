@@ -4,13 +4,13 @@ Public Domain Publishing Inc. Presentation to AdVenture Capitalists
 Table of contents
 =================
 1. Letter from the founder
- https://publicdomaincompany.com/#letter Letter from the founder
+ https://pub.breck.lol/#letter Letter from the founder
 2. Budget and financial projections
- https://publicdomaincompany.com/#budget Budget and financial projections
+ https://pub.breck.lol/#budget Budget and financial projections
 3. Details of the current markets, products and business models
- https://publicdomaincompany.com/#deck Details of the current markets, products and business models
+ https://pub.breck.lol/#deck Details of the current markets, products and business models
 4. FAQ
- https://publicdomaincompany.com/#faq FAQ
+ https://pub.breck.lol/#faq FAQ
 
 Letter from the founder
 =======================
@@ -44,19 +44,6 @@ Budget and financial projections
 ================================
 Expenses year 1
 ===============
-Name|Amount in thousands
-Founder salary|65
-Founder support staff|300
-Principal engineers (3)|600
-Data Scientists (5)|500
-Scroll Theme Designer(1.5)|150
-Marketing|150
-Legal & accounting|100
-Interns (10)|100
-Office space|36
-Server costs|12
-Domain Names|10
-Total|$2,023
 
 Revenue projections year 1
 ==========================
@@ -85,19 +72,19 @@ PLDB.io: Contributors
  https://pldb.io/ PLDB.io
  https://github.com/breck7/pldb/graphs/contributors Contributors
 Scroll.pub: Downloads
- https://scroll.pub/ Scroll.pub
+ https://scroll.surf/ Scroll.pub
  https://www.npmjs.com/package/scroll-cli Downloads
 
 Team
 ====
 About 40 people have actively worked with us for a month or more, between regular volunteers and paid contributors. About ~7 of these people have urgently needed skillsets to bring on full time.
 Our founder is Breck Yunits, a prolific angel investor who in the past was Senior Software Engineer at Our World in Data, Research Associate at University of Hawai'i Cancer Center, Software Engineer at Microsoft, Co-founder of Nudge Inc. (acqui-hired by Microsoft in 2014), Mozilla WebFwd Alum, 2x YCombinator alum, former software engineer at Lab Zero, and 2007 B.S. in Economics from Duke University.
- https://breckyunits.com/ Breck Yunits
- https://breckyunits.com/an-angel-investors-data.html angel investor
+ https://breck.lol/ Breck Yunits
+ https://breck.lol/an-angel-investors-data.html angel investor
  https://ourworldindata.org/ Our World in Data
  https://www.uhcancercenter.org/ University of Hawai'i Cancer Center
  https://microsoft.com/ Microsoft
- https://breckyunits.com/nudgepad-an-ide-in-your-browser.html Nudge Inc.
+ https://breck.lol/nudgepad-an-ide-in-your-browser.html Nudge Inc.
  https://labzero.com/ Lab Zero
  https://duke.edu/ Duke University
 
@@ -145,4 +132,4 @@ What is the company's view on risk?
 ===================================
 We will continue to bet the entire company over and over again on the next big order-of-magnitude risk until our objectives are accomplished. If you do the math, this means we will eventually be a company measured in billions or go bust. A sensible hedging strategy for our investors might be to sell ~10% of holdings every time we achieve a ~10x increase in size.
 
-Built with Scroll v142.0.2
+Built with Scroll v178.2.3

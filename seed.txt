@@ -5,19 +5,19 @@ Seed/Angel Round
 ================
 
 The Scroll is a successor to the web that is public domain, intelligent, and works offline.
- https://wws.scroll.pub/ The Scroll
+ https://wws.scroll.surf/ The Scroll
 
 How is the tech different? Git instead of HTTP. Scroll instead of HTML. ScrollSets instead of databases. ScrollHub instead of GitHub.
- https://scroll.pub Scroll
- https://sets.scroll.pub ScrollSets
- https://hub.scroll.pub ScrollHub
+ https://scroll.surf Scroll
+ https://sets.scroll.surf ScrollSets
+ https://hub.scroll.surf ScrollHub
 
 For consumers, The Scroll provides all the benefits of the Web but an order of magnitude better and faster.
 
 For businesses, The Scroll eliminates unneeded complexity and streamlines their development, customer service, operations and marketing.
 
 The Scroll is made possible by breakthroughs in computer science and mathematics that we invented including the PPS stack (Particles, Parsers, and Scroll) and the equations $E=T/A!$, $I=C/S$ and $P = {T^{C^R}}^I$.
- https://scroll.pub/blog/teddyTalk.html PPS
+ https://scroll.surf/blog/teddyTalk.html PPS
 
 Imagine a pristine copy of civilization's knowledge in your pocket. A world where every child, no matter where they are born, gets their own copy of humanity's most intelligent information.
 
@@ -27,7 +27,7 @@ Our customers buy root names on The Scroll, the same as they buy domain names fo
  https://buy.stripe.com/cN2dUC82JaiNbaEfZn root names
 
 In addition to root names, we also will create additional significant value add products on top of The Scroll, such as The Scroll for Spaces.
- https://wws.scroll.pub/spaces.html The Scroll for Spaces
+ https://wws.scroll.surf/spaces.html The Scroll for Spaces
 
 Viewership to our products is in the thousands a day, and increasing at approximately 10% week over week.
 
