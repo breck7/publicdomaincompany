@@ -6,11 +6,11 @@ headerIncludes.scroll
  style font-weight: 100; font-size: 200%;
 
 center
-<div class="card"><a href="https://wws.scroll.pub"><img src="wws.gif" /></a></div>
+<div class="card"><a href="https://wws.scroll.surf"><img src="wws.gif" /></a></div>
 
 center
-<div class="card"><a href="https://hub.scroll.pub"><img src="scrollhub.gif" /></a></div>
-<div class="card"><a href="https://scroll.pub"><img src="scroll.gif" /></a></div>
+<div class="card"><a href="https://hub.scroll.surf"><img src="scrollhub.gif" /></a></div>
+<div class="card"><a href="https://scroll.surf"><img src="scroll.gif" /></a></div>
 <div class="card"><a href="https://pldb.io"><img src="pldb.gif" /></a></div>
 
 center
