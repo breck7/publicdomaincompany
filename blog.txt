@@ -41,9 +41,4 @@ https://pub.breck.lol/real-time-research.html
 09/04/2022
 https://pub.breck.lol/buildPublicDomain.html
 
-Motivational posters
-====================
-03/06/2021
-https://pub.breck.lol/motivationalPosters.html
-
 Built with Scroll v178.2.3
