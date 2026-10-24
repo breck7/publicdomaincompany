@@ -10,10 +10,15 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v2.3.1
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
       - name: Install and Build
         run: |
-          npm install -g scroll-cli
-          scroll build
+          npm install --omit=dev
+          npm run build
+          rm -rf node_modules
           # The line below is needed if you have *.html in your gitignore file
           rm .gitignore
       - name: Deploy 🚀

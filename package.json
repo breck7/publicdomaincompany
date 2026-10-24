@@ -9,11 +9,14 @@
   "scripts": {
     "build": "scroll build",
     "open": "open index.html",
-    "up": "npm install scroll-cli@latest"
+    "up": "npm install github:breck7/scroll#v180.0.1"
   },
   "author": "Public Domain Publishing Inc.",
   "homepage": "https://pub.breck.lol/",
+  "engines": {
+    "node": ">=24.0.0"
+  },
   "dependencies": {
-    "scroll-cli": "^136.0.0"
+    "scroll": "github:breck7/scroll#v180.0.1"
   }
 }
