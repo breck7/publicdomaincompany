@@ -132,4 +132,4 @@ What is the company's view on risk?
 ===================================
 We will continue to bet the entire company over and over again on the next big order-of-magnitude risk until our objectives are accomplished. If you do the math, this means we will eventually be a company measured in billions or go bust. A sensible hedging strategy for our investors might be to sell ~10% of holdings every time we achieve a ~10x increase in size.
 
-Built with Scroll v178.2.3
+Built with Scroll v180.0.1

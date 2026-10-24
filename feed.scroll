@@ -1,5 +1,5 @@
+buildRss feed.xml
 description Our corporate homepage
-permalink feed.xml
 title Public Domain Publishing, Inc.
 
 settings.scroll
